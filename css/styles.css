@@ -65,7 +65,7 @@ h1 {
 h3 {
   font-family: "Montserrat";
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 
 p {
@@ -77,6 +77,10 @@ p {
   width: 30%;
   font-size: 3rem;
   padding-bottom: 20px;
+}
+
+.feature-icon:hover {
+  color: #ff4c68;
 }
 
 .f-item {

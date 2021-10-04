@@ -5,6 +5,7 @@ body {
 #title {
   background-color: #ff4c68;
   color: #fff;
+  position: relative;
 
 }
 
@@ -77,6 +78,11 @@ p {
 #features {
   padding: 7% 15%;
   text-align: center;
+  background-color: white;
+  position: relative;
+  bottom: 150px;
+  z-index: 1;
+
 }
 
 .f-item {
